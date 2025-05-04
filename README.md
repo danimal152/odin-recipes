@@ -1,1 +1,1 @@
-# odin-recipes
+This will be my first basic site of recipes that will have a homepage with several branching pages of recipes created through the Odin Project tutorial. By the end my goal is to have become proficient in my git commits, messages and get back into the swing of html syntax.
